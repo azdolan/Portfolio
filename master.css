@@ -9,7 +9,7 @@ h1{
   padding-left: 25%;
   padding-right: 25%;
   text-align: left;
-    margin: auto;
+
 }
 
 h2{
@@ -17,7 +17,7 @@ h2{
   padding-left: 25%;
   padding-right: 25%;
     text-align: left;
-      margin: auto;
+
 }
 
 h3{
@@ -25,7 +25,7 @@ h3{
   padding-left: 25%;
   padding-right: 25%;
     text-align: left;
-      margin: auto;
+
 }
 
 
@@ -34,7 +34,7 @@ li{
   padding-left: 25%;
   padding-right: 25%;
   text-align: left;
-    margin: auto;
+
 }
 
 p{
@@ -42,5 +42,5 @@ p{
   padding-left: 25%;
   padding-right: 25%;
     text-align: left;
-      margin: auto;
+    
 }
